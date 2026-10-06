@@ -1,0 +1,4 @@
+latent_dimension,original_image_values,compression_ratio,full_test_reconstruction_mse,10_image_reconstruction_mse_mean,10_image_noisy_input_mse_mean,10_image_denoised_mse_mean
+2,784,392.00:1,0.05110746,0.04759714,0.06235049,0.04070095
+16,784,49.00:1,0.02642214,0.02850740,0.06235049,0.02382179
+32,784,24.50:1,0.02473620,0.02468025,0.06235049,0.01977987
